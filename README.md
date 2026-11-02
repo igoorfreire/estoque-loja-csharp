@@ -16,7 +16,7 @@ Requisitos: [.NET SDK](https://dotnet.microsoft.com/download) instalado (projeto
 
 ```bash
 git clone https://github.com/igoorfreire/estoque-loja-csharp.git
-cd estoque-loja-csharp
+cd estoque-loja-csharp/estoque-loja-csharp
 dotnet run
 ```
 
